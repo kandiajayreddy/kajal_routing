@@ -1,0 +1,3552 @@
+{
+    "userinfo": {
+        "user_id": "4600abd1-ac0a-443f-8110-70a97b7a77c3",
+        "sub": "4600abd1-ac0a-443f-8110-70a97b7a77c3",
+        "ge_sso": "204075136",
+        "given_name": "Jantzen",
+        "family_name": "Thomas",
+        "email": "Jantzen.Thomas@ge.com",
+        "phone_number": null,
+        "previous_logon_time": 1495739912742,
+        "name": "Jantzen Thomas"
+    },
+    "eventsList": [
+        {
+            "id": 5001,
+            "business": null,
+            "fieldServiceScope": "TFA & Labor",
+            "contractType": "CS",
+            "startDate": "2018-03-14T00:00:00",
+            "endDate": "2018-03-15T00:00:00",
+            "serialNumber": "810893",
+            "sfdcId": null,
+            "outageProbability": null,
+            "outageType": "Call Out",
+            "alphaId": "1459188",
+            "projectId": 14,
+            "eventId": "1459188",
+            "cpqRequestId": null,
+            "technology": null,
+            "location": "MIDLAND COGEN ~ SITE 1 ~ AET, NORTH AMERICA",
+            "customerName": "MIDLAND COGENERATION VENTURE LIMITED PARTNERSHIP",
+            "outageStatus": "Ready",
+            "frameType": null,
+            "sso": "503037067",
+            "searchString": " TFA & Labor CSA-HV 2018-03-14 00:00:00+05:30 2018-03-15 00:00:00+05:30 810893   Call Out 1459188 14 1459188   MIDLAND COGEN ~ SITE 1 ~ AET, NORTH AMERICA MIDLAND COGENERATION VENTURE LIMITED PARTNERSHIP Ready  2018-06-12 00:00:00",
+            "favouriteFlag": "N",
+            "estimatedDueDate": "2018-06-12T00:00:00"
+          },
+          {
+            "id": 5002,
+            "business": null,
+            "fieldServiceScope": "TFA & Labor",
+            "contractType": "CS",
+            "startDate": "2018-04-03T00:00:00",
+            "endDate": "2018-04-30T00:00:00",
+            "serialNumber": "297758",
+            "sfdcId": null,
+            "outageProbability": null,
+            "outageType": "Call Out",
+            "alphaId": "1459198",
+            "projectId": 15,
+            "eventId": "1459198",
+            "cpqRequestId": null,
+            "technology": null,
+            "location": "CHUCK LENZIE GENERATING STATION (MOAPA, APEX) ~ SITE 1 ~ BJU, NORTH AMERICA",
+            "customerName": "NEVADA POWER COMPANY",
+            "outageStatus": "Ready",
+            "frameType": null,
+            "sso": "503037067",
+            "searchString": " TFA & Labor CSA-HV 2018-04-03 00:00:00+05:30  297758   Call Out 1459198 15 1459198   CHUCK LENZIE GENERATING STATION (MOAPA, APEX) ~ SITE 1 ~ BJU, NORTH AMERICA NEVADA POWER COMPANY Ready  2018-07-02 00:00:00",
+            "favouriteFlag": "N",
+            "estimatedDueDate": "2018-07-02T00:00:00"
+          },
+          {
+            "id": 5000,
+            "business": null,
+            "fieldServiceScope": "TFA & Labor",
+            "contractType": "CS",
+            "startDate": "2018-03-13T00:00:00",
+            "endDate": "2018-04-30T00:00:00",
+            "serialNumber": "299232",
+            "sfdcId": null,
+            "outageProbability": null,
+            "outageType": "Initial Spares",
+            "alphaId": "1459078",
+            "projectId": 6,
+            "eventId": "1459078",
+            "cpqRequestId": null,
+            "technology": null,
+            "location": "HESS NEWARK ENERGY CENTER ~ SITE 1 ~ BUO, NORTH AMERICA",
+            "customerName": "NEWARK ENERGY CENTER, LLC",
+            "outageStatus": "Ready",
+            "frameType": null,
+            "sso": "503037067",
+            "searchString": " TFA & Labor CSA-HV 2018-03-13 00:00:00+05:30  299232   Initial Spares 1459078 6 1459078   HESS NEWARK ENERGY CENTER ~ SITE 1 ~ BUO, NORTH AMERICA NEWARK ENERGY CENTER, LLC Ready  2018-06-11 00:00:00",
+            "favouriteFlag": "Y",
+            "estimatedDueDate": "2018-06-11T00:00:00"
+        },
+        {
+            "id": 6293,
+            "business": null,
+            "fieldServiceScope": "TFA & Labor",
+            "contractType": "CS",
+            "startDate": "2018-04-03T00:00:00",
+            "endDate": "2018-04-30T00:00:00",
+            "serialNumber": "SY0009158",
+            "sfdcId": null,
+            "outageProbability": null,
+            "outageType": "Minor",
+            "alphaId": "1442812",
+            "projectId": 1294,
+            "eventId": "1442812",
+            "cpqRequestId": null,
+            "technology": null,
+            "location": "CASTLE PEAK ~ SITE 1 ~ CKF, CHINA",
+            "customerName": "CASTLE PEAK POWER CO LTD",
+            "outageStatus": "Forecasted",
+            "sso": "502647638",
+            "searchString": " TFA & Labor CSA-HV 2018-03-13 00:00:00+05:30  299232   Initial Spares 1459078 6 1459078   HESS NEWARK ENERGY CENTER ~ SITE 1 ~ BUO, NORTH AMERICA NEWARK ENERGY CENTER, LLC Ready  2018-06-11 00:00:00",
+            "favouriteFlag": "Y",
+            "estimatedDueDate": "2018-06-11T00:00:00",
+            "frameType": null
+        },
+        {
+            "id": 6001,
+            "business": null,
+            "fieldServiceScope": "TFA & Labor",
+            "contractType": "CS",
+            "startDate": "2017-12-20T00:00:00",
+            "endDate": "2017-12-30T00:00:00",
+            "serialNumber": "SY0048926",
+            "sfdcId": null,
+            "outageProbability": null,
+            "outageType": "Call Out",
+            "alphaId": "1443810",
+            "projectId": 1002,
+            "eventId": "1443810",
+            "cpqRequestId": null,
+            "technology": null,
+            "location": "Tuxpan Fenosa ~ SITE 2 ~ CKW, LATIN AMERICA",
+            "customerName": "FUERZA Y ENERGIA DE TUXPAN, SA DE CV",
+            "outageStatus": "Ready",
+            "sso": "503037067",
+            "searchString": " TFA & Labor CSA-HV 2018-03-13 00:00:00+05:30  299232   Initial Spares 1459078 6 1459078   HESS NEWARK ENERGY CENTER ~ SITE 1 ~ BUO, NORTH AMERICA NEWARK ENERGY CENTER, LLC Ready  2018-06-11 00:00:00",
+            "favouriteFlag": "N",
+            "estimatedDueDate": "2018-03-19T00:00:00",
+            "frameType": null
+        }
+    ],
+    "favouriteEventsList": [
+        {
+            "customerName": "Georgia Power",
+            "location": "GA, USA",
+            "id": "1109190",
+            "serialNumber": "270T8595",
+            "startDate": "3 Feb'18",
+            "outageType": "Major",
+            "fieldServiceScope": "TA & Labour",
+            "endDate": "31 Mar'18",
+            "technology": "Gas Turbine",
+            "outageStatus": "Forcasted",
+            "dueDate": "1 Jan'18",
+            "eventId": "1003598"
+        },
+        {
+            "customerName": "Tennessee Valley Authority",
+            "location": "Mississippi, USA",
+            "id": "1109191",
+            "serialNumber": "270T8594",
+            "startDate": "3 Feb'18",
+            "outageType": "Major",
+            "fieldServiceScope": "TA & Labour",
+            "endDate": "31 Mar'18",
+            "technology": "Gas Turbine",
+            "outageStatus": "Forcasted",
+            "dueDate": "1 Jan'18",
+            "eventId": "1247230"
+        }
+
+    ],
+    "globalSearch": [
+        {
+            "customerName": "Tennessee Valley Authority",
+            "location": "Mississippi, USA",
+            "id": "1109196",
+            "serialNumber": "270T8591",
+            "startDate": "3 Feb'18",
+            "outageType": "Major",
+            "fieldServiceScope": "TA & Labour",
+            "endDate": "31 Mar'18",
+            "technology": "Gas Turbine",
+            "outageStatus": "Forcasted",
+            "dueDate": "1 Jan'18",
+            "eventId": "152422"
+        }
+    ],
+    "costrate":[
+         {
+            "id": 30,
+            "country": "Algeria",
+            "region": "AIM",
+            "laborprovider": "FieldCore",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 32.32,
+            "truecostOt": 32.32,
+            "truecostDt": 32.32,
+            "truecostPd": 0.00,
+            "transferSt": 64.64,
+            "transferOt": 64.64,
+            "transferDt": 64.64,
+            "transferPd": 0.00,
+            "version": 1
+        },
+        {
+            "id": 80,
+            "country": "Tunisia",
+            "region": "AIM",
+            "laborprovider": "FieldCore",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 23.14,
+            "truecostOt": 23.14,
+            "truecostDt": 23.14,
+            "truecostPd": 0.00,
+            "transferSt": 46.27,
+            "transferOt": 46.27,
+            "transferDt": 46.27,
+            "transferPd": 0.00,
+            "version": 1
+        },
+        {
+            "id": 446,
+            "country": "NAM (Regional Rate)",
+            "region": "NAM",
+            "laborprovider": "APCom",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.88,
+            "truecostOt": 0.88,
+            "truecostDt": 0.88,
+            "truecostPd": 0.88,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 0
+        },
+        {
+            "id": 447,
+            "country": "NAM (Regional Rate)",
+            "region": "NAM",
+            "laborprovider": "APCom",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.88,
+            "truecostOt": 0.88,
+            "truecostDt": 0.88,
+            "truecostPd": 0.88,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 0
+        },
+        {
+            "id": 448,
+            "country": "NAM (Regional Rate)",
+            "region": "NAM",
+            "laborprovider": "APCom",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.88,
+            "truecostOt": 0.88,
+            "truecostDt": 0.88,
+            "truecostPd": 0.88,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 0
+        },
+        {
+            "id": 449,
+            "country": "NAM (Regional Rate)",
+            "region": "NAM",
+            "laborprovider": "Other (Custom Transfer Price)",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 1.00,
+            "truecostOt": 1.00,
+            "truecostDt": 1.00,
+            "truecostPd": 1.00,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 0
+        },
+        {
+            "id": 450,
+            "country": "NAM (Regional Rate)",
+            "region": "NAM",
+            "laborprovider": "Other (Custom Transfer Price)",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 1.00,
+            "truecostOt": 1.00,
+            "truecostDt": 1.00,
+            "truecostPd": 1.00,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 0
+        },
+        {
+            "id": 451,
+            "country": "NAM (Regional Rate)",
+            "region": "NAM",
+            "laborprovider": "Other (Custom Transfer Price)",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 1.00,
+            "truecostOt": 1.00,
+            "truecostDt": 1.00,
+            "truecostPd": 1.00,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 0
+        },
+        {
+            "id": 452,
+            "country": "NAM (Regional Rate)",
+            "region": "NAM",
+            "laborprovider": "Other (Custom Transfer Price)",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 1.00,
+            "truecostOt": 1.00,
+            "truecostDt": 1.00,
+            "truecostPd": 1.00,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 0
+        },
+        {
+            "id": 453,
+            "country": "LAPS (Regional Rate)",
+            "region": "LAPS",
+            "laborprovider": "APCom",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.88,
+            "truecostOt": 0.88,
+            "truecostDt": 0.88,
+            "truecostPd": 0.88,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 0
+        },
+        {
+            "id": 454,
+            "country": "LAPS (Regional Rate)",
+            "region": "LAPS",
+            "laborprovider": "APCom",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.88,
+            "truecostOt": 0.88,
+            "truecostDt": 0.88,
+            "truecostPd": 0.88,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 0
+        },
+        {
+            "id": 455,
+            "country": "LAPS (Regional Rate)",
+            "region": "LAPS",
+            "laborprovider": "APCom",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.88,
+            "truecostOt": 0.88,
+            "truecostDt": 0.88,
+            "truecostPd": 0.88,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 0
+        },
+        {
+            "id": 456,
+            "country": "LAPS (Regional Rate)",
+            "region": "LAPS",
+            "laborprovider": "APCom",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.88,
+            "truecostOt": 0.88,
+            "truecostDt": 0.88,
+            "truecostPd": 0.88,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 0
+        },
+        {
+            "id": 457,
+            "country": "LAPS (Regional Rate)",
+            "region": "LAPS",
+            "laborprovider": "Other (Custom Transfer Price)",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 1.00,
+            "truecostOt": 1.00,
+            "truecostDt": 1.00,
+            "truecostPd": 1.00,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 0
+        },
+        {
+            "id": 458,
+            "country": "LAPS (Regional Rate)",
+            "region": "LAPS",
+            "laborprovider": "Other (Custom Transfer Price)",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 1.00,
+            "truecostOt": 1.00,
+            "truecostDt": 1.00,
+            "truecostPd": 1.00,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 0
+        },
+        {
+            "id": 459,
+            "country": "LAPS (Regional Rate)",
+            "region": "LAPS",
+            "laborprovider": "Other (Custom Transfer Price)",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 1.00,
+            "truecostOt": 1.00,
+            "truecostDt": 1.00,
+            "truecostPd": 1.00,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 0
+        },
+        {
+            "id": 460,
+            "country": "LAPS (Regional Rate)",
+            "region": "LAPS",
+            "laborprovider": "Other (Custom Transfer Price)",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 1.00,
+            "truecostOt": 1.00,
+            "truecostDt": 1.00,
+            "truecostPd": 1.00,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 0
+        },
+        {
+            "id": 417,
+            "country": "Colombia",
+            "region": "LAPS",
+            "laborprovider": "FieldCore",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 58.50,
+            "truecostOt": 58.50,
+            "truecostDt": 58.50,
+            "truecostPd": 0.00,
+            "transferSt": 117.00,
+            "transferOt": 117.00,
+            "transferDt": 117.00,
+            "transferPd": 0.00,
+            "version": 1
+        },
+        {
+            "id": 424,
+            "country": "AIM (Regional Rate)",
+            "region": "AIM",
+            "laborprovider": "APM",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.86,
+            "truecostOt": 0.86,
+            "truecostDt": 0.86,
+            "truecostPd": 0.86,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 1
+        },
+        {
+            "id": 426,
+            "country": "AIM (Regional Rate)",
+            "region": "AIM",
+            "laborprovider": "APM",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.86,
+            "truecostOt": 0.86,
+            "truecostDt": 0.86,
+            "truecostPd": 0.86,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 1
+        },
+        {
+            "id": 461,
+            "country": "EU (Regional Rate)",
+            "region": "EU",
+            "laborprovider": "APM",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.86,
+            "truecostOt": 0.86,
+            "truecostDt": 0.86,
+            "truecostPd": 0.86,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 1
+        },
+        {
+            "id": 462,
+            "country": "EU (Regional Rate)",
+            "region": "EU",
+            "laborprovider": "APM",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.86,
+            "truecostOt": 0.86,
+            "truecostDt": 0.86,
+            "truecostPd": 0.86,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 1
+        },
+        {
+            "id": 463,
+            "country": "APAC (Regional Rate)",
+            "region": "APAC",
+            "laborprovider": "APM",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.86,
+            "truecostOt": 0.86,
+            "truecostDt": 0.86,
+            "truecostPd": 0.86,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 1
+        },
+        {
+            "id": 464,
+            "country": "APAC (Regional Rate)",
+            "region": "APAC",
+            "laborprovider": "APM",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.86,
+            "truecostOt": 0.86,
+            "truecostDt": 0.86,
+            "truecostPd": 0.86,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 1
+        },
+        {
+            "id": 465,
+            "country": "APAC (Regional Rate)",
+            "region": "APAC",
+            "laborprovider": "APM",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+                "currency": "USD",
+            "year": null,
+            "truecostSt": 0.86,
+            "truecostOt": 0.86,
+            "truecostDt": 0.86,
+            "truecostPd": 0.86,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 1
+        },
+        {
+            "id": 466,
+            "country": "APAC (Regional Rate)",
+            "region": "APAC",
+            "laborprovider": "APM",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+                "currency": "USD",
+            "year": null,
+            "truecostSt": 0.86,
+            "truecostOt": 0.86,
+            "truecostDt": 0.86,
+            "truecostPd": 0.86,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 1
+        },
+        {
+            "id": 467,
+            "country": "NAM (Regional Rate)",
+            "region": "NAM",
+            "laborprovider": "APM",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+                "currency": "USD",
+            "year": null,
+            "truecostSt": 0.86,
+            "truecostOt": 0.86,
+            "truecostDt": 0.86,
+            "truecostPd": 0.86,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 1
+        },
+        {
+            "id": 468,
+            "country": "NAM (Regional Rate)",
+            "region": "NAM",
+            "laborprovider": "APM",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.86,
+            "truecostOt": 0.86,
+            "truecostDt": 0.86,
+            "truecostPd": 0.86,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 1
+        },
+        {
+            "id": 469,
+            "country": "NAM (Regional Rate)",
+            "region": "NAM",
+            "laborprovider": "APM",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.86,
+            "truecostOt": 0.86,
+            "truecostDt": 0.86,
+            "truecostPd": 0.86,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 1
+        },
+        {
+            "id": 470,
+            "country": "NAM (Regional Rate)",
+            "region": "NAM",
+            "laborprovider": "APM",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.86,
+            "truecostOt": 0.86,
+            "truecostDt": 0.86,
+            "truecostPd": 0.86,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 1
+        },
+        {
+            "id": 471,
+            "country": "LAPS (Regional Rate)",
+            "region": "LAPS",
+            "laborprovider": "APM",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.86,
+            "truecostOt": 0.86,
+            "truecostDt": 0.86,
+            "truecostPd": 0.86,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 1
+        },
+        {
+            "id": 472,
+            "country": "LAPS (Regional Rate)",
+            "region": "LAPS",
+            "laborprovider": "APM",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.86,
+            "truecostOt": 0.86,
+            "truecostDt": 0.86,
+            "truecostPd": 0.86,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 1
+        },
+        {
+            "id": 473,
+            "country": "LAPS (Regional Rate)",
+            "region": "LAPS",
+            "laborprovider": "APM",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.86,
+            "truecostOt": 0.86,
+            "truecostDt": 0.86,
+            "truecostPd": 0.86,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 1
+        },
+        {
+            "id": 474,
+            "country": "LAPS (Regional Rate)",
+            "region": "LAPS",
+            "laborprovider": "APM",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.86,
+            "truecostOt": 0.86,
+            "truecostDt": 0.86,
+            "truecostPd": 0.86,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 1
+        },
+        {
+            "id": 475,
+            "country": "AIM (Regional Rate)",
+            "region": "AIM",
+            "laborprovider": "APM",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.86,
+            "truecostOt": 0.86,
+            "truecostDt": 0.86,
+            "truecostPd": 0.86,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 1
+        },
+        {
+            "id": 476,
+            "country": "EU (Regional Rate)",
+            "region": "EU",
+            "laborprovider": "APM",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.86,
+            "truecostOt": 0.86,
+            "truecostDt": 0.86,
+            "truecostPd": 0.86,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 1
+        },
+        {
+            "id": 477,
+            "country": "EU (Regional Rate)",
+            "region": "EU",
+            "laborprovider": "APM",
+            "resourceType": 1,
+            "resourceTypeDescription": "Administrative Specialist",
+            "currency": "USD",
+            "year": null,
+            "truecostSt": 0.86,
+            "truecostOt": 0.86,
+            "truecostDt": 0.86,
+            "truecostPd": 0.86,
+            "transferSt": 1.00,
+            "transferOt": 1.00,
+            "transferDt": 1.00,
+            "transferPd": 1.00,
+            "version": 1
+        }
+    ],
+    "country": {
+        "AIM": [
+            "AIM (Regional Rate)",
+            "Algeria",
+            "Angola",
+            "Bahrain",
+            "Bangladesh",
+            "Chad",
+            "Cote D'Ivoire",
+            "Egypt",
+            "Ghana",
+            "India",
+            "Iraq",
+            "Jordan",
+            "Kuwait",
+            "Lebanon",
+            "Morocco",
+            "Nigeria",
+            "Oman",
+            "Pakistan",
+            "Qatar",
+            "Saudi Arabia",
+            "Sir Lanka",
+            "South Africa",
+            "Tunisia",
+            "United Arab Emirates"
+        ],
+        "APAC": [
+            "APAC (Regional Rate)",
+            "Australia",
+            "China",
+            "Hong Kong",
+            "Indonesia",
+            "Japan",
+            "Korea",
+            "Myanmar",
+            "New Zealand",
+            "Papua New Guinea",
+            "Philippines",
+            "Singapore",
+            "Taiwan",
+            "Thailand",
+            "Vietnam"
+        ],
+        "EU": [
+            "Armenia",
+            "Austria",
+            "Azerbaijan",
+            "Belarus",
+            "Belgium",
+            "Croatia",
+            "Cyprus",
+            "Czech Republic",
+            "Denmark",
+            "EU (Regional Rate)",
+            "Finland",
+            "France",
+            "Germany",
+            "Greece",
+            "Hungary",
+            "Ireland(Eire)",
+            "Israel",
+            "Italy",
+            "Kazakhstan",
+            "Latvia",
+            "Lithuania",
+            "Luxembourg",
+            "Netherlands",
+            "Northern Ireland",
+            "Norway",
+            "Poland",
+            "Portugal",
+            "Romania",
+            "Russia",
+            "Sakhalin",
+            "Spain",
+            "Sweden",
+            "Switzerland",
+            "Turkey",
+            "Turkmenistan",
+            "United Kingdom"
+        ],
+        "LAPS": [
+            "Argentina",
+            "Brazil",
+            "Chile",
+            "Colombia",
+            "LAPS (Regional Rate)",
+            "Mexico",
+            "Peru"
+        ],
+        "NAM": [
+            "Canada",
+            "NAM (Regional Rate)",
+            "United States"
+        ],
+        "ALL": [
+            "AIM (Regional Rate)",
+            "Algeria",
+            "Angola",
+            "Bahrain",
+            "Bangladesh",
+            "Chad",
+            "Cote D'Ivoire",
+            "Egypt",
+            "Ghana",
+            "India",
+            "Iraq",
+            "Jordan",
+            "Kuwait",
+            "Lebanon",
+            "Morocco",
+            "Nigeria",
+            "Oman",
+            "Pakistan",
+            "Qatar",
+            "Saudi Arabia",
+            "Sir Lanka",
+            "South Africa",
+            "Tunisia",
+            "United Arab Emirates",
+            "APAC (Regional Rate)",
+            "Australia",
+            "China",
+            "Hong Kong",
+            "Indonesia",
+            "Japan",
+            "Korea",
+            "Myanmar",
+            "New Zealand",
+            "Papua New Guinea",
+            "Philippines",
+            "Singapore",
+            "Taiwan",
+            "Thailand",
+            "Vietnam",
+            "Armenia",
+            "Austria",
+            "Azerbaijan",
+            "Belarus",
+            "Belgium",
+            "Croatia",
+            "Cyprus",
+            "Czech Republic",
+            "Denmark",
+            "EU (Regional Rate)",
+            "Finland",
+            "France",
+            "Germany",
+            "Greece",
+            "Hungary",
+            "Ireland(Eire)",
+            "Israel",
+            "Italy",
+            "Kazakhstan",
+            "Latvia",
+            "Lithuania",
+            "Luxembourg",
+            "Netherlands",
+            "Northern Ireland",
+            "Norway",
+            "Poland",
+            "Portugal",
+            "Romania",
+            "Russia",
+            "Sakhalin",
+            "Spain",
+            "Sweden",
+            "Switzerland",
+            "Turkey",
+            "Turkmenistan",
+            "United Kingdom",
+            "Argentina",
+            "Brazil",
+            "Chile",
+            "Colombia",
+            "LAPS (Regional Rate)",
+            "Mexico",
+            "Peru",
+            "Canada",
+            "NAM (Regional Rate)",
+            "United States"
+        ]
+    },
+    "laborProvider": [
+        {
+            "id": 1,
+            "laborProvider": "Granite",
+            "percentage": 19.50
+        },
+        {
+            "id": 3,
+            "laborProvider": "APM",
+            "percentage": 14.00
+        },
+        {
+            "id": 4,
+            "laborProvider": "APCom",
+            "percentage": 12.00
+        },
+        {
+            "id": 5,
+            "laborProvider": "GE",
+            "percentage": 0.00
+        },
+        {
+            "id": 6,
+            "laborProvider": "Other (Custom Transfer Price)",
+            "percentage": 0.00
+        },
+        {
+            "id": 7,
+            "laborProvider": "Other (No Transfer Price)",
+            "percentage": 0.00
+        },
+        {
+            "id": 2,
+            "laborProvider": "FieldCore",
+            "percentage": 50.00
+        }
+    ],
+    "standardsProject": {
+        "name": "GAS",
+        "description": "GAS Project",
+        "wbsTree": [
+            {
+                "root": {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "children": [
+                                                {
+                                                    "children": [
+                                                        {
+                                                            "children": [
+                                                                {
+                                                                    "children": [
+                                                                        {
+                                                                            "children": [
+                                                                                {
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "children": [
+
+                                                                                            ],
+                                                                                            "element": {
+                                                                                                "id": 72,
+                                                                                                "name": "MILESTONES2",
+                                                                                                "description": "MILESTONES",
+                                                                                                "elementType": "StandardWBSElement",
+                                                                                                "templateIds": [
+
+                                                                                                ]
+                                                                                            },
+                                                                                            "breakdownId": "1.1.1.1.1.1.1.1.1.1",
+                                                                                            "treeId": 6,
+                                                                                            "level": 10,
+                                                                                            "leaf": true,
+                                                                                            "nodeId": 72
+                                                                                        },
+                                                                                        {
+                                                                                            "children": [
+
+                                                                                            ],
+                                                                                            "element": {
+                                                                                                "id": 73,
+                                                                                                "name": "MILESTONES3",
+                                                                                                "description": "MILESTONES",
+                                                                                                "elementType": "StandardWBSElement",
+                                                                                                "templateIds": [
+                                                                                                    42
+                                                                                                ]
+                                                                                            },
+                                                                                            "breakdownId": "1.1.1.1.1.1.1.1.1.2",
+                                                                                            "treeId": 6,
+                                                                                            "level": 10,
+                                                                                            "leaf": true,
+                                                                                            "nodeId": 73
+                                                                                        }
+                                                                                    ],
+                                                                                    "element": {
+                                                                                        "id": 49,
+                                                                                        "name": "MILESTONES1",
+                                                                                        "description": "MILESTONES",
+                                                                                        "elementType": "StandardWBSElement",
+                                                                                        "templateIds": [
+                                                                                            42
+                                                                                        ]
+                                                                                    },
+                                                                                    "breakdownId": "1.1.1.1.1.1.1.1.1",
+                                                                                    "treeId": 6,
+                                                                                    "level": 9,
+                                                                                    "leaf": false,
+                                                                                    "nodeId": 49
+                                                                                },
+                                                                                {
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "children": [
+
+                                                                                                                    ],
+                                                                                                                    "element": {
+                                                                                                                        "id": 95,
+                                                                                                                        "name": "1017",
+                                                                                                                        "description": "MOBILIZATION / SITE SET UP  WORK",
+                                                                                                                        "elementType": "WorkPackage",
+                                                                                                                        "templateIds": [
+                                                                                                                            42
+                                                                                                                        ]
+                                                                                                                    },
+                                                                                                                    "breakdownId": "1.1.1.1.1.1.1.1.2.1.1.1.1",
+                                                                                                                    "treeId": 6,
+                                                                                                                    "level": 13,
+                                                                                                                    "leaf": true,
+                                                                                                                    "nodeId": 95
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "children": [
+
+                                                                                                                    ],
+                                                                                                                    "element": {
+                                                                                                                        "id": 96,
+                                                                                                                        "name": "1018",
+                                                                                                                        "description": "Mobilize / Move On Site",
+                                                                                                                        "elementType": "WorkPackage",
+                                                                                                                        "templateIds": [
+                                                                                                                            42
+                                                                                                                        ]
+                                                                                                                    },
+                                                                                                                    "breakdownId": "1.1.1.1.1.1.1.1.2.1.1.1.2",
+                                                                                                                    "treeId": 6,
+                                                                                                                    "level": 13,
+                                                                                                                    "leaf": true,
+                                                                                                                    "nodeId": 96
+                                                                                                                }
+                                                                                                            ],
+                                                                                                            "element": {
+                                                                                                                "id": 94,
+                                                                                                                "name": "MOBILIZATION / SITE SET UP  WORK",
+                                                                                                                "description": "MOBILIZATION / SITE SET UP  WORK",
+                                                                                                                "elementType": "StandardWBSElement",
+                                                                                                                "templateIds": [
+                                                                                                                    42
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            "breakdownId": "1.1.1.1.1.1.1.1.2.1.1.1",
+                                                                                                            "treeId": 6,
+                                                                                                            "level": 12,
+                                                                                                            "leaf": false,
+                                                                                                            "nodeId": 94
+                                                                                                        }
+                                                                                                    ],
+                                                                                                    "element": {
+                                                                                                        "id": 93,
+                                                                                                        "name": "MOBILIZATION / SITE SET UP  WORK",
+                                                                                                        "description": "MOBILIZATION / SITE SET UP  WORK",
+                                                                                                        "elementType": "StandardWBSElement",
+                                                                                                        "templateIds": [
+                                                                                                            42
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    "breakdownId": "1.1.1.1.1.1.1.1.2.1.1",
+                                                                                                    "treeId": 6,
+                                                                                                    "level": 11,
+                                                                                                    "leaf": false,
+                                                                                                    "nodeId": 93
+                                                                                                }
+                                                                                            ],
+                                                                                            "element": {
+                                                                                                "id": 92,
+                                                                                                "name": "MOBILIZATION / SITE SET UP  WORK",
+                                                                                                "description": "MOBILIZATION / SITE SET UP  WORK",
+                                                                                                "elementType": "StandardWBSElement",
+                                                                                                "templateIds": [
+                                                                                                    42
+                                                                                                ]
+                                                                                            },
+                                                                                            "breakdownId": "1.1.1.1.1.1.1.1.2.1",
+                                                                                            "treeId": 6,
+                                                                                            "level": 10,
+                                                                                            "leaf": false,
+                                                                                            "nodeId": 92
+                                                                                        }
+                                                                                    ],
+                                                                                    "element": {
+                                                                                        "id": 71,
+                                                                                        "name": "                  GT MOBILIZATION (UNIT#__)(SN#__)",
+                                                                                        "description": "                  GT MOBILIZATION (UNIT#__)(SN#__)",
+                                                                                        "elementType": "StandardWBSElement",
+                                                                                        "templateIds": [
+                                                                                            42
+                                                                                        ]
+                                                                                    },
+                                                                                    "breakdownId": "1.1.1.1.1.1.1.1.2",
+                                                                                    "treeId": 6,
+                                                                                    "level": 9,
+                                                                                    "leaf": false,
+                                                                                    "nodeId": 71
+                                                                                }
+                                                                            ],
+                                                                            "element": {
+                                                                                "id": 42,
+                                                                                "name": "GAS TURBINE MAINTENANCE",
+                                                                                "description": "GAS TURBINE MAINTENANCE",
+                                                                                "elementType": "StandardWBSElement",
+                                                                                "templateIds": [
+                                                                                    42
+                                                                                ]
+                                                                            },
+                                                                            "breakdownId": "1.1.1.1.1.1.1.1",
+                                                                            "treeId": 6,
+                                                                            "level": 8,
+                                                                            "leaf": false,
+                                                                            "nodeId": 42
+                                                                        }
+                                                                    ],
+                                                                    "element": {
+                                                                        "id": 41,
+                                                                        "name": "UNIT NO. 1",
+                                                                        "description": "UNIT NO. 1",
+                                                                        "elementType": "StandardWBSElement",
+                                                                        "templateIds": [
+                                                                            42
+                                                                        ]
+                                                                    },
+                                                                    "breakdownId": "1.1.1.1.1.1.1",
+                                                                    "treeId": 6,
+                                                                    "level": 7,
+                                                                    "leaf": false,
+                                                                    "nodeId": 41
+                                                                }
+                                                            ],
+                                                            "element": {
+                                                                "id": 39,
+                                                                "name": "SITE Rolling Rock",
+                                                                "description": "SITE Rolling Rock",
+                                                                "elementType": "StandardWBSElement",
+                                                                "templateIds": [
+                                                                    42
+                                                                ]
+                                                            },
+                                                            "breakdownId": "1.1.1.1.1.1",
+                                                            "treeId": 6,
+                                                            "level": 6,
+                                                            "leaf": false,
+                                                            "nodeId": 39
+                                                        }
+                                                    ],
+                                                    "element": {
+                                                        "id": 38,
+                                                        "name": "FULFILLMENT FieldCore",
+                                                        "description": "FULFILLMENT FieldCore",
+                                                        "elementType": "StandardWBSElement",
+                                                        "templateIds": [
+                                                            42
+                                                        ]
+                                                    },
+                                                    "breakdownId": "1.1.1.1.1",
+                                                    "treeId": 6,
+                                                    "level": 5,
+                                                    "leaf": false,
+                                                    "nodeId": 38
+                                                }
+                                            ],
+                                            "element": {
+                                                "id": 37,
+                                                "name": "CUSTOMER PO G3349F01-33",
+                                                "description": "CUSTOMER PO G3349F01-33",
+                                                "elementType": "StandardWBSElement",
+                                                "templateIds": [
+                                                    42
+                                                ]
+                                            },
+                                            "breakdownId": "1.1.1.1",
+                                            "treeId": 6,
+                                            "level": 4,
+                                            "leaf": false,
+                                            "nodeId": 37
+                                        }
+                                    ],
+                                    "element": {
+                                        "id": 36,
+                                        "name": "PO TYPE SUMMARY Firm Price",
+                                        "description": "PO TYPE SUMMARY Firm Price",
+                                        "elementType": "StandardWBSElement",
+                                        "templateIds": [
+                                            42
+                                        ]
+                                    },
+                                    "breakdownId": "1.1.1",
+                                    "treeId": 6,
+                                    "level": 3,
+                                    "leaf": false,
+                                    "nodeId": 36
+                                }
+                            ],
+                            "element": {
+                                "id": 34,
+                                "name": "EVENT",
+                                "description": "EVENT",
+                                "elementType": "StandardWBSElement",
+                                "templateIds": [
+                                    42
+                                ]
+                            },
+                            "breakdownId": "1.1",
+                            "treeId": 6,
+                            "level": 2,
+                            "leaf": false,
+                            "nodeId": 34
+                        }
+                    ],
+                    "element": {
+                        "id": 17,
+                        "name": "CONTRACT",
+                        "description": "CONTRACT",
+                        "elementType": "StandardWBSElement",
+                        "templateIds": [
+                            42
+                        ]
+                    },
+                    "breakdownId": "1",
+                    "treeId": 6,
+                    "level": 1,
+                    "leaf": false,
+                    "nodeId": 17
+                },
+                "treeId": 6
+            }
+        ],
+        "templates": [
+            {
+                "id": 42,
+                "manufacturer": "GE",
+                "technology": "7FA",
+                "inspection": "Major Inspection",
+                "description": "7FA Major Inspection template",
+                "standardFlag": true,
+                "updatedDate": [
+                    2018,
+                    2,
+                    28,
+                    5,
+                    20,
+                    43,
+                    44000000
+                ]
+            }
+        ],
+        "projectId": 1
+    },
+    "scopeTree":[
+        {
+            "root": {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [
+                                                    {
+                                                        "children": [
+                                                            {
+                                                                "children": [
+                                                                    {
+                                                                        "children": [
+                                                                            {
+                                                                                "children": [
+                                                                                    {
+                                                                                        "children": [
+
+                                                                                        ],
+                                                                                        "element": {
+                                                                                            "id": 72,
+                                                                                            "name": "MILESTONES2",
+                                                                                            "description": "MILESTONES",
+                                                                                            "elementType": "StandardWBSElement",
+                                                                                            "templateIds": [
+
+                                                                                            ]
+                                                                                        },
+                                                                                        "breakdownId": "1.1.1.1.1.1.1.1.1.1",
+                                                                                        "treeId": 6,
+                                                                                        "level": 10,
+                                                                                        "leaf": true,
+                                                                                        "nodeId": 72
+                                                                                    },
+                                                                                    {
+                                                                                        "children": [
+
+                                                                                        ],
+                                                                                        "element": {
+                                                                                            "id": 73,
+                                                                                            "name": "MILESTONES3",
+                                                                                            "description": "MILESTONES",
+                                                                                            "elementType": "StandardWBSElement",
+                                                                                            "templateIds": [
+                                                                                                42
+                                                                                            ]
+                                                                                        },
+                                                                                        "breakdownId": "1.1.1.1.1.1.1.1.1.2",
+                                                                                        "treeId": 6,
+                                                                                        "level": 10,
+                                                                                        "leaf": true,
+                                                                                        "nodeId": 73
+                                                                                    }
+                                                                                ],
+                                                                                "element": {
+                                                                                    "id": 49,
+                                                                                    "name": "MILESTONES1",
+                                                                                    "description": "MILESTONES",
+                                                                                    "elementType": "StandardWBSElement",
+                                                                                    "templateIds": [
+                                                                                        42
+                                                                                    ]
+                                                                                },
+                                                                                "breakdownId": "1.1.1.1.1.1.1.1.1",
+                                                                                "treeId": 6,
+                                                                                "level": 9,
+                                                                                "leaf": false,
+                                                                                "nodeId": 49
+                                                                            },
+                                                                            {
+                                                                                "children": [
+                                                                                    {
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "children": [
+                                                                                                            {
+                                                                                                                "children": [
+
+                                                                                                                ],
+                                                                                                                "element": {
+                                                                                                                    "id": 95,
+                                                                                                                    "name": "1017",
+                                                                                                                    "description": "MOBILIZATION / SITE SET UP  WORK",
+                                                                                                                    "elementType": "WorkPackage",
+                                                                                                                    "templateIds": [
+                                                                                                                        42
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                "breakdownId": "1.1.1.1.1.1.1.1.2.1.1.1.1",
+                                                                                                                "treeId": 6,
+                                                                                                                "level": 13,
+                                                                                                                "leaf": true,
+                                                                                                                "nodeId": 95
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "children": [
+
+                                                                                                                ],
+                                                                                                                "element": {
+                                                                                                                    "id": 96,
+                                                                                                                    "name": "1018",
+                                                                                                                    "description": "Mobilize / Move On Site",
+                                                                                                                    "elementType": "WorkPackage",
+                                                                                                                    "templateIds": [
+                                                                                                                        42
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                "breakdownId": "1.1.1.1.1.1.1.1.2.1.1.1.2",
+                                                                                                                "treeId": 6,
+                                                                                                                "level": 13,
+                                                                                                                "leaf": true,
+                                                                                                                "nodeId": 96
+                                                                                                            }
+                                                                                                        ],
+                                                                                                        "element": {
+                                                                                                            "id": 94,
+                                                                                                            "name": "MOBILIZATION / SITE SET UP  WORK",
+                                                                                                            "description": "MOBILIZATION / SITE SET UP  WORK",
+                                                                                                            "elementType": "StandardWBSElement",
+                                                                                                            "templateIds": [
+                                                                                                                42
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        "breakdownId": "1.1.1.1.1.1.1.1.2.1.1.1",
+                                                                                                        "treeId": 6,
+                                                                                                        "level": 12,
+                                                                                                        "leaf": false,
+                                                                                                        "nodeId": 94
+                                                                                                    }
+                                                                                                ],
+                                                                                                "element": {
+                                                                                                    "id": 93,
+                                                                                                    "name": "MOBILIZATION / SITE SET UP  WORK",
+                                                                                                    "description": "MOBILIZATION / SITE SET UP  WORK",
+                                                                                                    "elementType": "StandardWBSElement",
+                                                                                                    "templateIds": [
+                                                                                                        42
+                                                                                                    ]
+                                                                                                },
+                                                                                                "breakdownId": "1.1.1.1.1.1.1.1.2.1.1",
+                                                                                                "treeId": 6,
+                                                                                                "level": 11,
+                                                                                                "leaf": false,
+                                                                                                "nodeId": 93
+                                                                                            }
+                                                                                        ],
+                                                                                        "element": {
+                                                                                            "id": 92,
+                                                                                            "name": "MOBILIZATION / SITE SET UP  WORK",
+                                                                                            "description": "MOBILIZATION / SITE SET UP  WORK",
+                                                                                            "elementType": "StandardWBSElement",
+                                                                                            "templateIds": [
+                                                                                                42
+                                                                                            ]
+                                                                                        },
+                                                                                        "breakdownId": "1.1.1.1.1.1.1.1.2.1",
+                                                                                        "treeId": 6,
+                                                                                        "level": 10,
+                                                                                        "leaf": false,
+                                                                                        "nodeId": 92
+                                                                                    }
+                                                                                ],
+                                                                                "element": {
+                                                                                    "id": 71,
+                                                                                    "name": "                  GT MOBILIZATION (UNIT#__)(SN#__)",
+                                                                                    "description": "                  GT MOBILIZATION (UNIT#__)(SN#__)",
+                                                                                    "elementType": "StandardWBSElement",
+                                                                                    "templateIds": [
+                                                                                        42
+                                                                                    ]
+                                                                                },
+                                                                                "breakdownId": "1.1.1.1.1.1.1.1.2",
+                                                                                "treeId": 6,
+                                                                                "level": 9,
+                                                                                "leaf": false,
+                                                                                "nodeId": 71
+                                                                            }
+                                                                        ],
+                                                                        "element": {
+                                                                            "id": 42,
+                                                                            "name": "GAS TURBINE MAINTENANCE",
+                                                                            "description": "GAS TURBINE MAINTENANCE",
+                                                                            "elementType": "StandardWBSElement",
+                                                                            "templateIds": [
+                                                                                42
+                                                                            ]
+                                                                        },
+                                                                        "breakdownId": "1.1.1.1.1.1.1.1",
+                                                                        "treeId": 6,
+                                                                        "level": 8,
+                                                                        "leaf": false,
+                                                                        "nodeId": 42
+                                                                    }
+                                                                ],
+                                                                "element": {
+                                                                    "id": 41,
+                                                                    "name": "UNIT NO. 1",
+                                                                    "description": "UNIT NO. 1",
+                                                                    "elementType": "StandardWBSElement",
+                                                                    "templateIds": [
+                                                                        42
+                                                                    ]
+                                                                },
+                                                                "breakdownId": "1.1.1.1.1.1.1",
+                                                                "treeId": 6,
+                                                                "level": 7,
+                                                                "leaf": false,
+                                                                "nodeId": 41
+                                                            }
+                                                        ],
+                                                        "element": {
+                                                            "id": 39,
+                                                            "name": "SITE Rolling Rock",
+                                                            "description": "SITE Rolling Rock",
+                                                            "elementType": "StandardWBSElement",
+                                                            "templateIds": [
+                                                                42
+                                                            ]
+                                                        },
+                                                        "breakdownId": "1.1.1.1.1.1",
+                                                        "treeId": 6,
+                                                        "level": 6,
+                                                        "leaf": false,
+                                                        "nodeId": 39
+                                                    }
+                                                ],
+                                                "element": {
+                                                    "id": 38,
+                                                    "name": "FULFILLMENT FieldCore",
+                                                    "description": "FULFILLMENT FieldCore",
+                                                    "elementType": "StandardWBSElement",
+                                                    "templateIds": [
+                                                        42
+                                                    ]
+                                                },
+                                                "breakdownId": "1.1.1.1.1",
+                                                "treeId": 6,
+                                                "level": 5,
+                                                "leaf": false,
+                                                "nodeId": 38
+                                            }
+                                        ],
+                                        "element": {
+                                            "id": 37,
+                                            "name": "CUSTOMER PO G3349F01-33",
+                                            "description": "CUSTOMER PO G3349F01-33",
+                                            "elementType": "StandardWBSElement",
+                                            "templateIds": [
+                                                42
+                                            ]
+                                        },
+                                        "breakdownId": "1.1.1.1",
+                                        "treeId": 6,
+                                        "level": 4,
+                                        "leaf": false,
+                                        "nodeId": 37
+                                    }
+                                ],
+                                "element": {
+                                    "id": 36,
+                                    "name": "PO TYPE SUMMARY Firm Price",
+                                    "description": "PO TYPE SUMMARY Firm Price",
+                                    "elementType": "StandardWBSElement",
+                                    "templateIds": [
+                                        42
+                                    ]
+                                },
+                                "breakdownId": "1.1.1",
+                                "treeId": 6,
+                                "level": 3,
+                                "leaf": false,
+                                "nodeId": 36
+                            }
+                        ],
+                        "element": {
+                            "id": 34,
+                            "name": "EVENT",
+                            "description": "EVENT",
+                            "elementType": "StandardWBSElement",
+                            "templateIds": [
+                                42
+                            ]
+                        },
+                        "breakdownId": "1.1",
+                        "treeId": 6,
+                        "level": 2,
+                        "leaf": false,
+                        "nodeId": 34
+                    }
+                ],
+                "element": {
+                    "id": 17,
+                    "name": "CONTRACT",
+                    "description": "CONTRACT",
+                    "elementType": "StandardWBSElement",
+                    "templateIds": [
+                        42
+                    ]
+                },
+                "breakdownId": "1",
+                "treeId": 6,
+                "level": 1,
+                "leaf": false,
+                "nodeId": 17
+            },
+            "treeId": 6
+        }
+    ],
+    "role": [
+        {
+            "id": 1,
+            "roleCode": "AA-010",
+            "roleDescription": "Administrative Specialist",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 2,
+            "roleCode": "AE-011",
+            "roleDescription": "Bucket Technician",
+            "labourType": "L",
+            "resourceType":"Direct"
+        },
+        {
+            "id": 3,
+            "roleCode": "AB-005",
+            "roleDescription": "Commissioning Engineer",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 4,
+            "roleCode": "AE-008",
+            "roleDescription": "Crane Operator",
+            "labourType": "L",
+            "resourceType":"Direct"
+        },
+        {
+            "id": 5,
+            "roleCode": "AE-001",
+            "roleDescription": "Electrician",
+            "labourType": "L",
+            "resourceType":"Direct"
+        },
+        {
+            "id": 6,
+            "roleCode": "AA-014",
+            "roleDescription": "Finance Specialist",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 7,
+            "roleCode": "AA-009",
+            "roleDescription": "Logistics Coordinator",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 8,
+            "roleCode": "AE-012",
+            "roleDescription": "Materials Technician",
+            "labourType": "L",
+            "resourceType":"Direct"
+        },
+        {
+            "id": 9,
+            "roleCode": "AJ-005",
+            "roleDescription": "Mechanical Assistant",
+            "labourType": "L",
+            "resourceType":"Direct"
+        },
+        {
+            "id": 10,
+            "roleCode": "AE-003",
+            "roleDescription": "NDT Technician",
+            "labourType": "L",
+            "resourceType":"Direct"
+        },
+        {
+            "id": 11,
+            "roleCode": "AA-011",
+            "roleDescription": "Procurement Specialist",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 12,
+            "roleCode": "AB-010",
+            "roleDescription": "Project Controls Planner",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 13,
+            "roleCode": "AA-001",
+            "roleDescription": "Project Controls Specialist",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 14,
+            "roleCode": "AV-003",
+            "roleDescription": "QA/QC Site Manager",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 15,
+            "roleCode": "AE-015",
+            "roleDescription": "Rigger",
+            "labourType": "L",
+            "resourceType":"Direct"
+        },
+        {
+            "id": 16,
+            "roleCode": "AB-001",
+            "roleDescription": "Site EHS Specialist/Site Safety Prof",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 17,
+            "roleCode": "AV-001",
+            "roleDescription": "Site Manager - Installation",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 18,
+            "roleCode": "AV-002",
+            "roleDescription": "Site Manager - Service ",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 19,
+            "roleCode": "AX-001",
+            "roleDescription": "Supervisor",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 20,
+            "roleCode": "AY-017",
+            "roleDescription": "TFA - Boiler",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 21,
+            "roleCode": "AY-022",
+            "roleDescription": "TFA - Commissioning",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 22,
+            "roleCode": "AY-003",
+            "roleDescription": "TFA - Controls",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 23,
+            "roleCode": "AY-004",
+            "roleDescription": "TFA - Electrical",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 24,
+            "roleCode": "AY-006",
+            "roleDescription": "TFA - Electrical Excitation",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 25,
+            "roleCode": "AY-005",
+            "roleDescription": "TFA - Gas Turbine",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 26,
+            "roleCode": "AY-008",
+            "roleDescription": "TFA - Generator Specialist",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 27,
+            "roleCode": "AY-016",
+            "roleDescription": "TFA - Hydro",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 28,
+            "roleCode": "AY-014",
+            "roleDescription": "TFA - Installation",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 29,
+            "roleCode": "AY-012",
+            "roleDescription": "TFA - Steam Turbine",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 30,
+            "roleCode": "AY-021",
+            "roleDescription": "TFA - Thermal Performance",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 31,
+            "roleCode": "AY-007",
+            "roleDescription": "TFA - Vibration",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 32,
+            "roleCode": "AE-007",
+            "roleDescription": "Turbine Mechanic",
+            "labourType": "L",
+            "resourceType":"Direct"
+        },
+        {
+            "id": 33,
+            "roleCode": "AB-004",
+            "roleDescription": "Visual Inspections Specialist",
+            "labourType": "L",
+            "resourceType":"Indirect"
+        },
+        {
+            "id": 34,
+            "roleCode": "AE-010",
+            "roleDescription": "Welder",
+            "labourType": "L",
+            "resourceType":"Direct"
+        }
+    ],
+    "activityTemplate": {
+        "templateId": 42,
+        "manufacturer": "GE",
+        "technology": "7FA",
+        "inspection": "Major Inspection",
+        "description": "7FA Major Inspection template\n\n",
+        "standardFlag": true,
+        "treeList": [
+            {
+                "nodeId": 94,
+                "name": "MOBILIZATION / SITE SET UP  WORK",
+                "description": "MOBILIZATION / SITE SET UP  WORK",
+                "elements": [
+                    {
+                        "elementId": 96,
+                        "activityId": 67,
+                        "name": "1018",
+                        "description": "Mobilize / Move On Site",
+                        "resourceTypeList": [
+                            {
+                                "id": 2,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "40",
+                                "budgetedLaborUnits": "96"
+                            }
+                        ],
+                        "steps": "",
+                        "labourType": "Labor",
+                        "originalDuration": "40",
+                        "budgetedLaborUnits": "96",
+                        "calendeShiftsDay": "2",
+                        "calenderDaysWeek": "7",
+                        "calenderHoursShift": "10",
+                        "poTypeId": 4,
+                        "poValue": "PO1"
+                    },
+                    {
+                        "elementId": 95,
+                        "activityId": 192,
+                        "name": "1017",
+                        "description": "MOBILIZATION / SITE SET UP  WORK",
+                        "resourceTypeList": [
+
+                        ],
+                        "steps": null,
+                        "labourType": null,
+                        "originalDuration": null,
+                        "budgetedLaborUnits": null,
+                        "calendeShiftsDay": null,
+                        "calenderDaysWeek": null,
+                        "calenderHoursShift": null,
+                        "poTypeId": null,
+                        "poValue": null
+                    }
+                ]
+            },
+            {
+                "nodeId": 215,
+                "name": "Bucket techs",
+                "description": "Bucket techs",
+                "elements": [
+                    {
+                        "elementId": 216,
+                        "activityId": 123,
+                        "name": "1082",
+                        "description": "Remove Stage 1, 2, 3 Buckets",
+                        "resourceTypeList": [
+                            {
+                                "id": 87,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "15",
+                                "budgetedLaborUnits": "30"
+                            },
+                            {
+                                "id": 95,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "15",
+                                "budgetedLaborUnits": "30"
+                            },
+                            {
+                                "id": 98,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "15",
+                                "budgetedLaborUnits": "30"
+                            },
+                            {
+                                "id": 99,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "15",
+                                "budgetedLaborUnits": "30"
+                            },
+                            {
+                                "id": 96,
+                                "resourceTypeId": 2,
+                                "resourceTypeDescription": "Bucket Technician",
+                                "units": "",
+                                "duration": "15",
+                                "budgetedLaborUnits": "0"
+                            },
+                            {
+                                "id": 100,
+                                "resourceTypeId": 2,
+                                "resourceTypeDescription": "Bucket Technician",
+                                "units": "",
+                                "duration": "15",
+                                "budgetedLaborUnits": "0"
+                            },
+                            {
+                                "id": 101,
+                                "resourceTypeId": 2,
+                                "resourceTypeDescription": "Bucket Technician",
+                                "units": "",
+                                "duration": "15",
+                                "budgetedLaborUnits": "0"
+                            }
+                        ],
+                        "steps": "",
+                        "labourType": "Labor",
+                        "originalDuration": "15",
+                        "budgetedLaborUnits": "30",
+                        "calendeShiftsDay": "2",
+                        "calenderDaysWeek": "7",
+                        "calenderHoursShift": "10",
+                        "poTypeId": 4,
+                        "poValue": "PO1"
+                    },
+                    {
+                        "elementId": 218,
+                        "activityId": 124,
+                        "name": "1083",
+                        "description": "Wheel Space Insp/ Mapping",
+                        "resourceTypeList": [
+                            {
+                                "id": 102,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "2",
+                                "budgetedLaborUnits": "2"
+                            },
+                            {
+                                "id": 105,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "2",
+                                "budgetedLaborUnits": "2"
+                            },
+                            {
+                                "id": 104,
+                                "resourceTypeId": 2,
+                                "resourceTypeDescription": "Bucket Technician",
+                                "units": "",
+                                "duration": "2",
+                                "budgetedLaborUnits": "0"
+                            },
+                            {
+                                "id": 106,
+                                "resourceTypeId": 2,
+                                "resourceTypeDescription": "Bucket Technician",
+                                "units": "",
+                                "duration": "2",
+                                "budgetedLaborUnits": "0"
+                            }
+                        ],
+                        "steps": "",
+                        "labourType": "Labor",
+                        "originalDuration": "2",
+                        "budgetedLaborUnits": "2",
+                        "calendeShiftsDay": "2",
+                        "calenderDaysWeek": "7",
+                        "calenderHoursShift": "10",
+                        "poTypeId": 4,
+                        "poValue": "PO1"
+                    },
+                    {
+                        "elementId": 219,
+                        "activityId": 125,
+                        "name": "1085",
+                        "description": "Compressor Mapping",
+                        "resourceTypeList": [
+                            {
+                                "id": 107,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "20",
+                                "budgetedLaborUnits": "20"
+                            },
+                            {
+                                "id": 108,
+                                "resourceTypeId": 2,
+                                "resourceTypeDescription": "Bucket Technician",
+                                "units": "",
+                                "duration": "20",
+                                "budgetedLaborUnits": "0"
+                            }
+                        ],
+                        "steps": "",
+                        "labourType": "Labor",
+                        "originalDuration": "20",
+                        "budgetedLaborUnits": "20",
+                        "calendeShiftsDay": "2",
+                        "calenderDaysWeek": "7",
+                        "calenderHoursShift": "10",
+                        "poTypeId": 4,
+                        "poValue": "PO1"
+                    },
+                    {
+                        "elementId": 220,
+                        "activityId": 126,
+                        "name": "1084",
+                        "description": "Whl Sp Blending Balance Groove Rep",
+                        "resourceTypeList": [
+                            {
+                                "id": 110,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "5",
+                                "budgetedLaborUnits": "5"
+                            },
+                            {
+                                "id": 111,
+                                "resourceTypeId": 2,
+                                "resourceTypeDescription": "Bucket Technician",
+                                "units": "",
+                                "duration": "5",
+                                "budgetedLaborUnits": "0"
+                            }
+                        ],
+                        "steps": "",
+                        "labourType": "Labor",
+                        "originalDuration": "5",
+                        "budgetedLaborUnits": "5",
+                        "calendeShiftsDay": "2",
+                        "calenderDaysWeek": "7",
+                        "calenderHoursShift": "10",
+                        "poTypeId": 4,
+                        "poValue": "PO1"
+                    },
+                    {
+                        "elementId": 221,
+                        "activityId": 127,
+                        "name": "1086",
+                        "description": "Flapper Peening Wheel Spacer",
+                        "resourceTypeList": [
+                            {
+                                "id": 112,
+                                "resourceTypeId": 2,
+                                "resourceTypeDescription": "Bucket Technician",
+                                "units": "",
+                                "duration": "10",
+                                "budgetedLaborUnits": "0"
+                            },
+                            {
+                                "id": 113,
+                                "resourceTypeId": 2,
+                                "resourceTypeDescription": "Bucket Technician",
+                                "units": "",
+                                "duration": "10",
+                                "budgetedLaborUnits": "0"
+                            }
+                        ],
+                        "steps": "",
+                        "labourType": "Labor",
+                        "originalDuration": "10",
+                        "budgetedLaborUnits": "0",
+                        "calendeShiftsDay": "2",
+                        "calenderDaysWeek": "7",
+                        "calenderHoursShift": "10",
+                        "poTypeId": 4,
+                        "poValue": "PO1"
+                    },
+                    {
+                        "elementId": 222,
+                        "activityId": 128,
+                        "name": "1087",
+                        "description": "Bucket Layout and glue pins",
+                        "resourceTypeList": [
+                            {
+                                "id": 115,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "30",
+                                "budgetedLaborUnits": "30"
+                            },
+                            {
+                                "id": 116,
+                                "resourceTypeId": 2,
+                                "resourceTypeDescription": "Bucket Technician",
+                                "units": "",
+                                "duration": "30",
+                                "budgetedLaborUnits": "0"
+                            }
+                        ],
+                        "steps": "",
+                        "labourType": "Labor",
+                        "originalDuration": "30",
+                        "budgetedLaborUnits": "30",
+                        "calendeShiftsDay": "2",
+                        "calenderDaysWeek": "7",
+                        "calenderHoursShift": "10",
+                        "poTypeId": 4,
+                        "poValue": "PO1"
+                    },
+                    {
+                        "elementId": 223,
+                        "activityId": 129,
+                        "name": "1088",
+                        "description": "Compressor Blending",
+                        "resourceTypeList": [
+                            {
+                                "id": 127,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "60",
+                                "budgetedLaborUnits": "30"
+                            },
+                            {
+                                "id": 128,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "60",
+                                "budgetedLaborUnits": "30"
+                            },
+                            {
+                                "id": 129,
+                                "resourceTypeId": 2,
+                                "resourceTypeDescription": "Bucket Technician",
+                                "units": "",
+                                "duration": "60",
+                                "budgetedLaborUnits": "0"
+                            },
+                            {
+                                "id": 130,
+                                "resourceTypeId": 2,
+                                "resourceTypeDescription": "Bucket Technician",
+                                "units": "",
+                                "duration": "60",
+                                "budgetedLaborUnits": "0"
+                            }
+                        ],
+                        "steps": "",
+                        "labourType": "Labor",
+                        "originalDuration": "60",
+                        "budgetedLaborUnits": "30",
+                        "calendeShiftsDay": "2",
+                        "calenderDaysWeek": "7",
+                        "calenderHoursShift": "10",
+                        "poTypeId": 4,
+                        "poValue": "PO1"
+                    },
+                    {
+                        "elementId": 224,
+                        "activityId": 130,
+                        "name": "1089",
+                        "description": "Install Stage 1, 2, 3 Buckets",
+                        "resourceTypeList": [
+                            {
+                                "id": 131,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "15",
+                                "budgetedLaborUnits": "15"
+                            },
+                            {
+                                "id": 132,
+                                "resourceTypeId": 2,
+                                "resourceTypeDescription": "Bucket Technician",
+                                "units": "",
+                                "duration": "15",
+                                "budgetedLaborUnits": "0"
+                            }
+                        ],
+                        "steps": "",
+                        "labourType": "Labor",
+                        "originalDuration": "15",
+                        "budgetedLaborUnits": "15",
+                        "calendeShiftsDay": "2",
+                        "calenderDaysWeek": "7",
+                        "calenderHoursShift": "10",
+                        "poTypeId": 4,
+                        "poValue": "PO1"
+                    }
+                ]
+            },
+            {
+                "nodeId": 225,
+                "name": "LES",
+                "description": "LES",
+                "elements": [
+                    {
+                        "elementId": 226,
+                        "activityId": 131,
+                        "name": "1090",
+                        "description": "Forward Compressor Insp",
+                        "resourceTypeList": [
+                            {
+                                "id": 133,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "20",
+                                "budgetedLaborUnits": "20"
+                            },
+                            {
+                                "id": 136,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "20",
+                                "budgetedLaborUnits": "20"
+                            },
+                            {
+                                "id": 134,
+                                "resourceTypeId": 10,
+                                "resourceTypeDescription": "NDT Technician",
+                                "units": "",
+                                "duration": "20",
+                                "budgetedLaborUnits": "0"
+                            },
+                            {
+                                "id": 137,
+                                "resourceTypeId": 10,
+                                "resourceTypeDescription": "NDT Technician",
+                                "units": "",
+                                "duration": "20",
+                                "budgetedLaborUnits": "0"
+                            }
+                        ],
+                        "steps": "",
+                        "labourType": "Labor",
+                        "originalDuration": "20",
+                        "budgetedLaborUnits": "20",
+                        "calendeShiftsDay": "2",
+                        "calenderDaysWeek": "7",
+                        "calenderHoursShift": "10",
+                        "poTypeId": 4,
+                        "poValue": "PO1"
+                    },
+                    {
+                        "elementId": 227,
+                        "activityId": 132,
+                        "name": "1091",
+                        "description": "Visual Insp Dovetails & ECI TIL1937",
+                        "resourceTypeList": [
+                            {
+                                "id": 139,
+                                "resourceTypeId": 10,
+                                "resourceTypeDescription": "NDT Technician",
+                                "units": "",
+                                "duration": "20",
+                                "budgetedLaborUnits": "0"
+                            },
+                            {
+                                "id": 138,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "20",
+                                "budgetedLaborUnits": "20"
+                            }
+                        ],
+                        "steps": "",
+                        "labourType": "Labor",
+                        "originalDuration": "20",
+                        "budgetedLaborUnits": "20",
+                        "calendeShiftsDay": "2",
+                        "calenderDaysWeek": "7",
+                        "calenderHoursShift": "10",
+                        "poTypeId": 4,
+                        "poValue": "PO1"
+                    },
+                    {
+                        "elementId": 228,
+                        "activityId": 133,
+                        "name": "1092",
+                        "description": "Lockwire & Spacer Wheel UT",
+                        "resourceTypeList": [
+                            {
+                                "id": 140,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "10",
+                                "budgetedLaborUnits": "10"
+                            },
+                            {
+                                "id": 141,
+                                "resourceTypeId": 10,
+                                "resourceTypeDescription": "NDT Technician",
+                                "units": "",
+                                "duration": "10",
+                                "budgetedLaborUnits": "0"
+                            }
+                        ],
+                        "steps": "",
+                        "labourType": "Labor",
+                        "originalDuration": "10",
+                        "budgetedLaborUnits": "10",
+                        "calendeShiftsDay": "2",
+                        "calenderDaysWeek": "7",
+                        "calenderHoursShift": "10",
+                        "poTypeId": 4,
+                        "poValue": "PO1"
+                    },
+                    {
+                        "elementId": 229,
+                        "activityId": 134,
+                        "name": "1093",
+                        "description": "Verify Flapper Peening Coverage",
+                        "resourceTypeList": [
+                            {
+                                "id": 145,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "2",
+                                "budgetedLaborUnits": "2"
+                            },
+                            {
+                                "id": 146,
+                                "resourceTypeId": 10,
+                                "resourceTypeDescription": "NDT Technician",
+                                "units": "",
+                                "duration": "2",
+                                "budgetedLaborUnits": "0"
+                            },
+                            {
+                                "id": 147,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "2",
+                                "budgetedLaborUnits": "2"
+                            },
+                            {
+                                "id": 148,
+                                "resourceTypeId": 10,
+                                "resourceTypeDescription": "NDT Technician",
+                                "units": "",
+                                "duration": "2",
+                                "budgetedLaborUnits": "0"
+                            }
+                        ],
+                        "steps": "",
+                        "labourType": "Labor",
+                        "originalDuration": "2",
+                        "budgetedLaborUnits": "2",
+                        "calendeShiftsDay": "2",
+                        "calenderDaysWeek": "7",
+                        "calenderHoursShift": "10",
+                        "poTypeId": 4,
+                        "poValue": "PO1"
+                    },
+                    {
+                        "elementId": 230,
+                        "activityId": 135,
+                        "name": "1094",
+                        "description": "PT Blade Blending",
+                        "resourceTypeList": [
+                            {
+                                "id": 152,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "20",
+                                "budgetedLaborUnits": "20"
+                            },
+                            {
+                                "id": 154,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "20",
+                                "budgetedLaborUnits": "20"
+                            },
+                            {
+                                "id": 153,
+                                "resourceTypeId": 10,
+                                "resourceTypeDescription": "NDT Technician",
+                                "units": "",
+                                "duration": "20",
+                                "budgetedLaborUnits": "0"
+                            },
+                            {
+                                "id": 155,
+                                "resourceTypeId": 10,
+                                "resourceTypeDescription": "NDT Technician",
+                                "units": "",
+                                "duration": "20",
+                                "budgetedLaborUnits": "0"
+                            },
+                            {
+                                "id": 150,
+                                "resourceTypeId": 32,
+                                "resourceTypeDescription": "Turbine Mechanic",
+                                "units": "",
+                                "duration": "20",
+                                "budgetedLaborUnits": "20"
+                            },
+                            {
+                                "id": 151,
+                                "resourceTypeId": 10,
+                                "resourceTypeDescription": "NDT Technician",
+                                "units": "",
+                                "duration": "20",
+                                "budgetedLaborUnits": "0"
+                            }
+                        ],
+                        "steps": "",
+                        "labourType": "Labor",
+                        "originalDuration": "20",
+                        "budgetedLaborUnits": "20",
+                        "calendeShiftsDay": "2",
+                        "calenderDaysWeek": "7",
+                        "calenderHoursShift": "10",
+                        "poTypeId": 4,
+                        "poValue": "PO1"
+                    }
+                ]
+            }
+        ]
+    },
+    "essentials": {
+    "controlPanel": {
+      "pin": "000111",
+      "rates": {
+        "pagination": {
+          "pageSize": 25,
+          "pageSizeOptions": [
+            25,
+            50,
+            75,
+            100
+          ]
+        }
+      }
+    },
+    "WorkType": [
+      {
+        "id": 1,
+        "key": "WorkType",
+        "value": "Planned"
+      },
+      {
+        "id": 2,
+        "key": "WorkType",
+        "value": "Unplanned"
+      },
+      {
+        "id": 3,
+        "key": "WorkType",
+        "value": "Extra-Work"
+      }
+    ],
+    "roleDetails": [
+      {
+        "id": 1,
+        "roleCode": "AA-010",
+        "roleDescription": "Administrative Specialist",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 2,
+        "roleCode": "AE-011",
+        "roleDescription": "Bucket Technician",
+        "labourType": "L",
+        "resourceType":"Direct"
+      },
+      {
+        "id": 3,
+        "roleCode": "AB-005",
+        "roleDescription": "Commissioning Engineer",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 4,
+        "roleCode": "AE-008",
+        "roleDescription": "Crane Operator",
+        "labourType": "L",
+        "resourceType":"Direct"
+      },
+      {
+        "id": 5,
+        "roleCode": "AE-001",
+        "roleDescription": "Electrician",
+        "labourType": "L",
+        "resourceType":"Direct"
+      },
+      {
+        "id": 6,
+        "roleCode": "AA-014",
+        "roleDescription": "Finance Specialist",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 7,
+        "roleCode": "AA-009",
+        "roleDescription": "Logistics Coordinator",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 8,
+        "roleCode": "AE-012",
+        "roleDescription": "Materials Technician",
+        "labourType": "L",
+        "resourceType":"Direct"
+      },
+      {
+        "id": 9,
+        "roleCode": "AJ-005",
+        "roleDescription": "Mechanical Assistant",
+        "labourType": "L",
+        "resourceType":"Direct"
+      },
+      {
+        "id": 10,
+        "roleCode": "AE-003",
+        "roleDescription": "NDT Technician",
+        "labourType": "L",
+        "resourceType":"Direct"
+      },
+      {
+        "id": 11,
+        "roleCode": "AA-011",
+        "roleDescription": "Procurement Specialist",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 12,
+        "roleCode": "AB-010",
+        "roleDescription": "Project Controls Planner",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 13,
+        "roleCode": "AA-001",
+        "roleDescription": "Project Controls Specialist",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 14,
+        "roleCode": "AV-003",
+        "roleDescription": "QA/QC Site Manager",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 15,
+        "roleCode": "AE-015",
+        "roleDescription": "Rigger",
+        "labourType": "L",
+        "resourceType":"Direct"
+      },
+      {
+        "id": 16,
+        "roleCode": "AB-001",
+        "roleDescription": "Site EHS Specialist/Site Safety Prof",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 17,
+        "roleCode": "AV-001",
+        "roleDescription": "Site Manager - Installation",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 18,
+        "roleCode": "AV-002",
+        "roleDescription": "Site Manager - Service ",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 19,
+        "roleCode": "AX-001",
+        "roleDescription": "Supervisor",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 20,
+        "roleCode": "AY-017",
+        "roleDescription": "TFA - Boiler",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 21,
+        "roleCode": "AY-022",
+        "roleDescription": "TFA - Commissioning",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 22,
+        "roleCode": "AY-003",
+        "roleDescription": "TFA - Controls",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 23,
+        "roleCode": "AY-004",
+        "roleDescription": "TFA - Electrical",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 24,
+        "roleCode": "AY-006",
+        "roleDescription": "TFA - Electrical Excitation",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 25,
+        "roleCode": "AY-005",
+        "roleDescription": "TFA - Gas Turbine",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 26,
+        "roleCode": "AY-008",
+        "roleDescription": "TFA - Generator Specialist",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 27,
+        "roleCode": "AY-016",
+        "roleDescription": "TFA - Hydro",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 28,
+        "roleCode": "AY-014",
+        "roleDescription": "TFA - Installation",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 29,
+        "roleCode": "AY-012",
+        "roleDescription": "TFA - Steam Turbine",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 30,
+        "roleCode": "AY-021",
+        "roleDescription": "TFA - Thermal Performance",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 31,
+        "roleCode": "AY-007",
+        "roleDescription": "TFA - Vibration",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 32,
+        "roleCode": "AE-007",
+        "roleDescription": "Turbine Mechanic",
+        "labourType": "L",
+        "resourceType":"Direct"
+      },
+      {
+        "id": 33,
+        "roleCode": "AB-004",
+        "roleDescription": "Visual Inspections Specialist",
+        "labourType": "L",
+        "resourceType":"Indirect"
+      },
+      {
+        "id": 34,
+        "roleCode": "AE-010",
+        "roleDescription": "Welder",
+        "labourType": "L",
+        "resourceType":"Direct"
+      }
+    ],
+    "laborProviderOptions": [
+      "Granite",
+      "FieldCore",
+      "APM",
+      "APCom",
+      "GE",
+      "Other (Custom Transfer Price)",
+      "Other (No Transfer Price)"
+    ],
+    "PO": [
+      {
+        "id": 4,
+        "key": "PO",
+        "value": "PO1"
+      },
+      {
+        "id": 5,
+        "key": "PO",
+        "value": "PO2"
+      },
+      {
+        "id": 6,
+        "key": "PO",
+        "value": "PO3"
+      }
+    ],
+    "scoping": {
+        "ganttRelation": [
+            {
+                "type": 0,
+                "value": "Finish to Start"
+            },
+            {
+                "type": 1,
+                "value": "Start to Start"
+            },
+            {
+                "type": 2,
+                "value": "Finish to Finish"
+            },
+            {
+                "type": 3,
+                "value": "Start to Finish"
+            }
+        ]
+    }
+    },
+    "gantt": [
+        {
+            "id":67,
+            "text":"Mobilize / Move On Site",
+            "startDate":"2017-04-12T00:00:00",
+            "resources": 1,
+            "totalHours": 40,
+            "duration": 40,
+            "links":[
+                {
+                "id":1,
+                "source":67,
+                "target":192,
+                "type":0,
+                "lag":"string"
+                }
+            ],
+            "predecessor":[],
+            "successor":[192]
+        },
+        {
+            "id":192,
+            "text":"MOBILIZATION / SITE SET UP  WORK",
+            "startDate":"2017-04-13T00:00:00",
+            "resources": 0,
+            "totalHours": 0,
+            "duration": 0,
+            "links":[
+                {
+                "id":1,
+                "source":192,
+                "target":123,
+                "type":0,
+                "lag":"string"
+                }
+            ],
+            "predecessor":[67],
+            "successor":[123]
+        },
+        {
+            "id":123,
+            "text":"Remove Stage 1, 2, 3 Buckets",
+            "startDate":"2017-04-14T00:00:00",
+            "resources": 7,
+            "totalHours": 105,
+            "duration": 15,
+            "links":[
+                {
+                "id":1,
+                "source":123,
+                "target":124,
+                "type":0,
+                "lag":"string"
+                }
+            ],
+            "predecessor":[67],
+            "successor":[124]
+        },
+        {
+            "id":124,
+            "text":"Wheel Space Insp/ Mapping",
+            "startDate":"2017-04-15T00:00:00",
+            "resources": 4,
+            "totalHours": 8,
+            "duration": 2,
+            "links":[
+                {
+                "id":1,
+                "source":124,
+                "target":125,
+                "type":0,
+                "lag":"string"
+                }
+            ],
+            "predecessor":[123],
+            "successor":[125]
+        },
+        {
+            "id":125,
+            "text":"Compressor Mapping",
+            "startDate":"2017-04-16T00:00:00",
+            "resources": 2,
+            "totalHours": 40,
+            "duration": 20,
+            "links":[
+                {
+                "id":1,
+                "source":125,
+                "target":126,
+                "type":0,
+                "lag":"string"
+                }
+            ],
+            "predecessor":[124],
+            "successor":[126]
+        },
+        {
+            "id":126,
+            "text":"Whl Sp Blending Balance Groove Rep",
+            "startDate":"2017-04-17T00:00:00",
+            "resources": 2,
+            "totalHours": 10,
+            "duration": 5,
+            "links":[
+                {
+                "id":1,
+                "source":126,
+                "target":127,
+                "type":0,
+                "lag":"string"
+                }
+            ],
+            "predecessor":[125],
+            "successor":[127]
+        },
+        {
+            "id":127,
+            "text":"Flapper Peening Wheel Spacer",
+            "startDate":"2017-04-18T00:00:00",
+            "resources": 2,
+            "totalHours": 20,
+            "duration": 10,
+            "links":[
+                {
+                "id":1,
+                "source":127,
+                "target":128,
+                "type":0,
+                "lag":"string"
+                }
+            ],
+            "predecessor":[126],
+            "successor":[128]
+        },
+        {
+            "id":128,
+            "text":"Bucket Layout and glue pins",
+            "startDate":"2017-04-19T00:00:00",
+            "resources": 2,
+            "totalHours": 60,
+            "duration": 30,
+            "links":[
+                {
+                "id":1,
+                "source":128,
+                "target":129,
+                "type":0,
+                "lag":"string"
+                }
+            ],
+            "predecessor":[127],
+            "successor":[129]
+        },
+        {
+            "id":129,
+            "text":"Compressor Blending",
+            "startDate":"2017-04-20T00:00:00",
+            "resources": 4,
+            "totalHours": 240,
+            "duration": 60,
+            "links":[
+                {
+                "id":1,
+                "source":129,
+                "target":130,
+                "type":0,
+                "lag":"string"
+                }
+            ],
+            "predecessor":[128],
+            "successor":[130]
+        },
+        {
+            "id":130,
+            "text":"Install Stage 1, 2, 3 Buckets",
+            "startDate":"2017-04-21T00:00:00",
+            "resources": 2,
+            "totalHours": 30,
+            "duration": 15,
+            "links":[
+                {
+                "id":1,
+                "source":130,
+                "target":131,
+                "type":0,
+                "lag":"string"
+                }
+            ],
+            "predecessor":[129],
+            "successor":[131]
+        },
+        {
+            "id":131,
+            "text":"Forward Compressor Insp",
+            "startDate":"2017-04-22T00:00:00",
+            "resources": 4,
+            "totalHours": 80,
+            "duration": 20,
+            "links":[
+                {
+                "id":1,
+                "source":131,
+                "target":132,
+                "type":0,
+                "lag":"string"
+                }
+            ],
+            "predecessor":[130],
+            "successor":[132]
+        },
+        {
+            "id":132,
+            "text":"Visual Insp Dovetails & ECI TIL1937",
+            "startDate":"2017-04-23T00:00:00",
+            "resources": 2,
+            "totalHours": 40,
+            "duration": 20,
+            "links":[
+                {
+                "id":1,
+                "source":132,
+                "target":133,
+                "type":0,
+                "lag":"string"
+                }
+            ],
+            "predecessor":[131],
+            "successor":[133]
+        },
+        {
+            "id":133,
+            "text":"Lockwire & Spacer Wheel UT",
+            "startDate":"2017-04-24T00:00:00",
+            "resources": 2,
+            "totalHours": 20,
+            "duration": 10,
+            "links":[
+                {
+                "id":1,
+                "source":133,
+                "target":134,
+                "type":0,
+                "lag":"string"
+                },
+                {
+                "id":2,
+                "source":133,
+                "target":135,
+                "type":0,
+                "lag":"string"
+                }
+            ],
+            "predecessor":[132],
+            "successor":[134,135]
+        },
+        {
+            "id":134,
+            "text":"Verify Flapper Peening Coverage",
+            "startDate":"2017-04-25T00:00:00",
+            "resources": 4,
+            "totalHours": 8,
+            "duration": 2,
+            "links":[
+                {
+                "id":1,
+                "source":134,
+                "target":135,
+                "type":0,
+                "lag":"string"
+                }
+            ],
+            "predecessor":[133],
+            "successor":[135]
+        },
+        {
+            "id":135,
+            "text":"PT Blade Blending",
+            "startDate":"2017-04-26T00:00:00",
+            "resources": 6,
+            "totalHours": 120,
+            "duration": 20,
+            "links":[],
+            "predecessor":[133],
+            "successor":[]
+        }
+    ],
+    "costReportSummary": {
+      "projectSection" : {
+        "eventId" : "1023433",
+        "alphaId" : "1023433",
+        "projectId" : 5000,
+        "sfdcId" : null,
+        "technology" : "Gas",
+        "location" : "US",
+        "customerName" : "TOTAL Power USA",
+        "outageStatus" : "Completed",
+        "serialNumber" : "SY14643",
+        "frameType" : "7FA",
+        "outageProbability" : "Major Inspection",
+        "outageType" : null,
+        "business" : "GE",
+        "fieldServiceScope" : "FS Scope",
+        "contractType" : "TX",
+        "startDate": "2018-03-14T00:00:00",
+        "endDate": "2018-03-15T00:00:00"        
+      },
+      "executiveSummarySection" : "Executive summary desc",
+      "costSummarySection" : {
+        "name" : "Cost Summary Report",
+        "hours" : 52,
+        "cost" : 1650.0,
+        "currencyCost" : 825.0,
+        "currencyCode" : "GBP",
+        "currencyConversionRate" : 0.5,
+        "poSections" : [ {
+          "name" : "PO1",
+          "hours" : 12,
+          "cost" : 750.0,
+          "currencyCost" : 375.0,
+          "currencyCode" : "GBP",
+          "currencyConversionRate" : 0.5,
+          "description" : null,
+          "laborSection" : {
+            "name" : "LABOR",
+            "hours" : 6,
+            "cost" : 350.0,
+            "currencyCost" : 175.0,
+            "currencyCode" : "GBP",
+            "currencyConversionRate" : 0.5,
+            "costSections" : [ {
+              "name" : "Direct Labor",
+              "hours" : 2,
+              "cost" : 150.0,
+              "currencyCost" : 75.0,
+              "currencyCode" : "GBP",
+              "currencyConversionRate" : 0.5,
+              "costSections" : [ {
+                "name" : "Millwright",
+                "hours" : 1,
+                "cost" : 50.0,
+                "currencyCost" : 25.0,
+                "currencyCode" : "GBP",
+                "currencyConversionRate" : 0.5,
+                "costSections" : null
+              }, {
+                "name" : "Rigger",
+                "hours" : 1,
+                "cost" : 100.0,
+                "currencyCost" : 50.0,
+                "currencyCode" : "GBP",
+                "currencyConversionRate" : 0.5,
+                "costSections" : null
+              } ]
+            }, {
+              "name" : "Indirect Labor",
+              "hours" : 4,
+              "cost" : 200.0,
+              "currencyCost" : 100.0,
+              "currencyCode" : "GBP",
+              "currencyConversionRate" : 0.5,
+              "costSections" : [ {
+                "name" : "Foreman",
+                "hours" : 2,
+                "cost" : 100.0,
+                "currencyCost" : 50.0,
+                "currencyCode" : "GBP",
+                "currencyConversionRate" : 0.5,
+                "costSections" : null
+              }, {
+                "name" : "Foreman",
+                "hours" : 2,
+                "cost" : 100.0,
+                "currencyCost" : 50.0,
+                "currencyCode" : "GBP",
+                "currencyConversionRate" : 0.5,
+                "costSections" : null
+              } ]
+            } ]
+          },
+          "plmSection" : {
+            "name" : "PLM",
+            "hours" : 6,
+            "cost" : 400.0,
+            "currencyCost" : 200.0,
+            "currencyCode" : "GBP",
+            "currencyConversionRate" : 0.5,
+            "costSections" : [ {
+              "name" : "Sub contractors",
+              "hours" : 2,
+              "cost" : 200.0,
+              "currencyCost" : 100.0,
+              "currencyCode" : "GBP",
+              "currencyConversionRate" : 0.5,
+              "costSections" : [ {
+                "name" : "Sub 1",
+                "hours" : 1,
+                "cost" : 100.0,
+                "currencyCost" : 50.0,
+                "currencyCode" : "GBP",
+                "currencyConversionRate" : 0.5,
+                "costSections" : null
+              }, {
+                "name" : "Sub 2",
+                "hours" : 1,
+                "cost" : 100.0,
+                "currencyCost" : 50.0,
+                "currencyCode" : "GBP",
+                "currencyConversionRate" : 0.5,
+                "costSections" : null
+              } ]
+            }, {
+              "name" : "External Equipments",
+              "hours" : 4,
+              "cost" : 200.0,
+              "currencyCost" : 100.0,
+              "currencyCode" : "GBP",
+              "currencyConversionRate" : 0.5,
+              "costSections" : [ {
+                "name" : "Sub 1",
+                "hours" : 2,
+                "cost" : 100.0,
+                "currencyCost" : 50.0,
+                "currencyCode" : "GBP",
+                "currencyConversionRate" : 0.5,
+                "costSections" : null
+              }, {
+                "name" : "Sub 2",
+                "hours" : 2,
+                "cost" : 100.0,
+                "currencyCost" : 50.0,
+                "currencyCode" : "GBP",
+                "currencyConversionRate" : 0.5,
+                "costSections" : null
+              } ]
+            } ]
+          }
+        }, {
+          "name" : "PO2",
+          "hours" : 40,
+          "cost" : 900.0,
+          "currencyCost" : 450.0,
+          "currencyCode" : "GBP",
+          "currencyConversionRate" : 0.5,
+          "description" : null,
+          "laborSection" : {
+            "name" : "LABOR",
+            "hours" : 12,
+            "cost" : 500.0,
+            "currencyCost" : 250.0,
+            "currencyCode" : "GBP",
+            "currencyConversionRate" : 0.5,
+            "costSections" : [ {
+              "name" : "Direct Labor",
+              "hours" : 4,
+              "cost" : 300.0,
+              "currencyCost" : 150.0,
+              "currencyCode" : "GBP",
+              "currencyConversionRate" : 0.5,
+              "costSections" : [ {
+                "name" : "Millwright",
+                "hours" : 2,
+                "cost" : 200.0,
+                "currencyCost" : 100.0,
+                "currencyCode" : "GBP",
+                "currencyConversionRate" : 0.5,
+                "costSections" : null
+              }, {
+                "name" : "Rigger",
+                "hours" : 2,
+                "cost" : 100.0,
+                "currencyCost" : 50.0,
+                "currencyCode" : "GBP",
+                "currencyConversionRate" : 0.5,
+                "costSections" : null
+              } ]
+            }, {
+              "name" : "Indirect Labor",
+              "hours" : 8,
+              "cost" : 200.0,
+              "currencyCost" : 100.0,
+              "currencyCode" : "GBP",
+              "currencyConversionRate" : 0.5,
+              "costSections" : [ {
+                "name" : "Foreman",
+                "hours" : 4,
+                "cost" : 100.0,
+                "currencyCost" : 50.0,
+                "currencyCode" : "GBP",
+                "currencyConversionRate" : 0.5,
+                "costSections" : null
+              }, {
+                "name" : "Foreman",
+                "hours" : 4,
+                "cost" : 100.0,
+                "currencyCost" : 50.0,
+                "currencyCode" : "GBP",
+                "currencyConversionRate" : 0.5,
+                "costSections" : null
+              } ]
+            } ]
+          },
+          "plmSection" : {
+            "name" : "PLM",
+            "hours" : 28,
+            "cost" : 400.0,
+            "currencyCost" : 200.0,
+            "currencyCode" : "GBP",
+            "currencyConversionRate" : 0.5,
+            "costSections" : [ {
+              "name" : "Sub contractors",
+              "hours" : 12,
+              "cost" : 200.0,
+              "currencyCost" : 100.0,
+              "currencyCode" : "GBP",
+              "currencyConversionRate" : 0.5,
+              "costSections" : [ {
+                "name" : "Sub 1",
+                "hours" : 6,
+                "cost" : 100.0,
+                "currencyCost" : 50.0,
+                "currencyCode" : "GBP",
+                "currencyConversionRate" : 0.5,
+                "costSections" : null
+              }, {
+                "name" : "Sub 2",
+                "hours" : 6,
+                "cost" : 100.0,
+                "currencyCost" : 50.0,
+                "currencyCode" : "GBP",
+                "currencyConversionRate" : 0.5,
+                "costSections" : null
+              } ]
+            }, {
+              "name" : "External Equipments",
+              "hours" : 16,
+              "cost" : 200.0,
+              "currencyCost" : 100.0,
+              "currencyCode" : "GBP",
+              "currencyConversionRate" : 0.5,
+              "costSections" : [ {
+                "name" : "Sub 1",
+                "hours" : 8,
+                "cost" : 100.0,
+                "currencyCost" : 50.0,
+                "currencyCode" : "GBP",
+                "currencyConversionRate" : 0.5,
+                "costSections" : null
+              }, {
+                "name" : "Sub 2",
+                "hours" : 8,
+                "cost" : 100.0,
+                "currencyCost" : 50.0,
+                "currencyCode" : "GBP",
+                "currencyConversionRate" : 0.5,
+                "costSections" : null
+              } ]
+            } ]
+          }
+        }, {
+          "name" : "PO3",
+          "hours" : 0,
+          "cost" : 0.0,
+          "currencyCost" : 0.0,
+          "currencyCode" : "GBP",
+          "currencyConversionRate" : 0.5,
+          "description" : null,
+          "laborSection" : {
+            "name" : "LABOR",
+            "hours" : null,
+            "cost" : null,
+            "currencyCost" : null,
+            "currencyCode" : "GBP",
+            "currencyConversionRate" : 0.5,
+            "costSections" : [ ]
+          },
+          "plmSection" : {
+            "name" : "PLM",
+            "hours" : null,
+            "cost" : null,
+            "currencyCost" : null,
+            "currencyCode" : "GBP",
+            "currencyConversionRate" : 0.5,
+            "costSections" : [ ]
+          }
+        } ]
+      }
+    }
+}

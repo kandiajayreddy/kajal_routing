@@ -1,0 +1,17 @@
+<div class="bar-container" [ngClass]="checkWidth(eventBarData)">
+    <div *ngIf="eventBarData.leftWidthPercent != 0" class="item left_item" [ngStyle]="{'width': eventBarData.leftWidthPercent  + '%'}"></div>
+    <div *ngIf="eventBarData.leftWidthPercent == 0" class=""
+         [ngStyle]="{'width': eventBarData.leftWidthPercent?  eventBarData.leftWidthPercent  + '%' : 'initial'}">--</div>
+    <div *ngIf="eventBarData.rightWidthPercent != 0" class="item right_item" [ngStyle]="{'width': eventBarData.rightWidthPercent + '%'}"></div>
+    <div *ngIf="eventBarData.rightWidthPercent == 0" class=""
+         [ngStyle]="{'width': eventBarData.rightWidthPercent ? eventBarData.rightWidthPercent + '%' : 'initial'}">--</div>
+</div>
+<div class="bar-text-container" [ngClass]="checkWidth(eventBarData)">
+    <p  [ngStyle]="{'width': eventBarData.leftWidthPercent ? eventBarData.leftWidthPercent  + '%' : 'initial'}">
+        <span *ngIf="eventBarData.leftWidthPercent != 0">{{eventBarData.left}} </span>
+        <span *ngIf="eventBarData.leftWidthPercent == 0">0 </span>
+        {{eventBarData.leftText}}</p>
+    <p [ngStyle]="{'width': eventBarData.rightWidthPercent ? eventBarData.rightWidthPercent + '%' : 'initial'}">
+        <span  *ngIf="eventBarData.rightWidthPercent != 0">{{eventBarData.right}} </span>
+        <span  *ngIf="eventBarData.rightWidthPercent == 0">0 </span>{{eventBarData.rightText}}</p>
+</div>
